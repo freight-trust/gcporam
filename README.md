@@ -1,7 +1,5 @@
 # (Partially) Secure Oblivious Random Access Memory
 
-<img src="blockie.png" width="250" alight=right>
-
 Secure Function Evaluation
 
 ## Garbled Circuit-based SORAM
@@ -27,12 +25,11 @@ Secure Function Evaluation
 | Version 0.6.4 | MDc6UmVsZWFzZTI0MzgwNTQ3 | 2020-03-10T15:26:16Z |
 
 
-### Proposal Responsibility:
+### Security
 
-| Person               | Contact Info           | Responsibility           |
-| -------------------- | ---------------------- | ------------------------ |
-| @github_usrname | usr@github_email.com | Proposal Submitter |
-| @github_dev1 | posixmeharder@tycoon.com | Developer |
+         | Contact Info           | Responsibility           |
+ | ---------------------- | ------------------------ |
+| security@freighttrust.com | On-chain |
 
 
 ## Functions
