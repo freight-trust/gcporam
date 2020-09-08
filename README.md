@@ -25,12 +25,6 @@ Secure Function Evaluation
 | Version 0.6.4 | MDc6UmVsZWFzZTI0MzgwNTQ3 | 2020-03-10T15:26:16Z |
 
 
-### Security
-
-         | Contact Info           | Responsibility           |
- | ---------------------- | ------------------------ |
-| security@freighttrust.com | On-chain |
-
 
 ## Functions
 
