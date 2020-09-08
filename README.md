@@ -9,10 +9,6 @@ Secure Function Evaluation
 * Function list
 
 
-# Improvement Proposal Overview Title
-
-> Boilerplate Improvement Proposal Project Git Repo `README` file
-
 ## Overview
 
 *This is the overview explanation of the *proposal* project/improvement. Explain the purpose of the improvement.*
@@ -56,7 +52,6 @@ Click to see file details:
 
   GCTreeBasedORAM.redeploy
 
-  Image example of the **Rendered** FreeMarker file (if applicable)
 
   <hr>
 </details>
@@ -70,7 +65,6 @@ Click to see file details:
 
   GCTreeBasedORAM.redeploy
 
-  Image example of the **Rendered** FreeMarker file (if applicable)
 
   <hr>
 </details>
