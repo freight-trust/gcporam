@@ -1,10 +1,10 @@
-# Partially Oblivious Random Access Memory
+# (Partially) Secure Oblivious Random Access Memory
 
 <img src="blockie.png" width="250" alight=right>
 
 Secure Function Evaluation
 
-## Garbled Circuit-based ORAM
+## Garbled Circuit-based SORAM
 
 #### Functions
 
